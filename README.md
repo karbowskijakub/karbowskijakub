@@ -1,5 +1,5 @@
 ## Hello! I'm Jacob 
-I'm creative person who looking for new challenges.
+I'm extremely motivated to constantly develop my skills and grow professionally.
 
 - 👀 I’m interested in learning frontend technologies.
 - 🌱 I’m currently learning React Native.
