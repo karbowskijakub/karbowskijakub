@@ -1,5 +1,5 @@
 ## Hello! I'm Jacob 
-I'm extremely motivated to constantly develop my skills and grow professionally.
+Self-taught motivated to reach the goal and become a frontend developer.
 
 - 👀 I’m interested in learning frontend technologies.
 - 🌱 I’m currently learning React Native.
