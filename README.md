@@ -1,5 +1,4 @@
 ## Hello! I'm Jacob 
-Self-taught motivated to reach the goal and become a frontend developer.
 
 - 👀 I’m interested in learning frontend technologies.
 - 🌱 I’m currently learning React Native.
